@@ -1,0 +1,50 @@
+C:\Users\DimASS\Desktop\Фундаменталка\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\DimASS\Desktop\Фундаменталка\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\DimASS\Desktop\Фундаменталка\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\DimASS\Desktop\Фундаменталка\Coursework\Coursework\obj\Debug\Coursework.csprojAssemblyReference.cache
+C:\Users\DimASS\Desktop\Фундаменталка\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\DimASS\Desktop\Фундаменталка\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\DimASS\Desktop\Фундаменталка\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\DimASS\Desktop\Фундаменталка\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\DimASS\Desktop\Фундаменталка\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\DimASS\Desktop\Фундаменталка\Coursework\Coursework\obj\Debug\Coursework.Form1.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+E:\Coursework\Coursework\obj\Debug\Coursework.Form1.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+E:\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+E:\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+E:\Coursework\Coursework\obj\Debug\Coursework.exe
+E:\Coursework\Coursework\obj\Debug\Coursework.pdb
+E:\Coursework\Coursework\bin\Debug\Coursework.exe.config
+E:\Coursework\Coursework\bin\Debug\Coursework.exe
+E:\Coursework\Coursework\bin\Debug\Coursework.pdb
+D:\Coursework\Coursework\bin\Debug\Coursework.exe.config
+D:\Coursework\Coursework\bin\Debug\Coursework.exe
+D:\Coursework\Coursework\bin\Debug\Coursework.pdb
+D:\Coursework\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+D:\Coursework\Coursework\obj\Debug\Coursework.Form1.resources
+D:\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+D:\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+D:\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+D:\Coursework\Coursework\obj\Debug\Coursework.exe
+D:\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\dimas\OneDrive\Рабочий стол\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\dimas\OneDrive\Рабочий стол\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\dimas\OneDrive\Рабочий стол\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\dimas\OneDrive\Рабочий стол\Coursework\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\dimas\OneDrive\Рабочий стол\Coursework\Coursework\obj\Debug\Coursework.Form1.resources
+C:\Users\dimas\OneDrive\Рабочий стол\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\dimas\OneDrive\Рабочий стол\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\dimas\OneDrive\Рабочий стол\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\dimas\OneDrive\Рабочий стол\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\dimas\OneDrive\Рабочий стол\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\dimas\Downloads\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\dimas\Downloads\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\dimas\Downloads\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\dimas\Downloads\Coursework\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\dimas\Downloads\Coursework\Coursework\obj\Debug\Coursework.Form1.resources
+C:\Users\dimas\Downloads\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\dimas\Downloads\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\dimas\Downloads\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Downloads\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\dimas\Downloads\Coursework\Coursework\obj\Debug\Coursework.pdb
